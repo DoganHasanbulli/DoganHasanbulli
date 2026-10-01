@@ -7,7 +7,17 @@ I'm a developer interested in building **AI-powered applications, web projects a
 Currently working on a **2D Fantasy RPG with Godot & GDScript** while exploring different areas of software development.
 
 ---
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="INSTAGRAM_LINK">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+---
 ## 💻 Tech Stack
 
 <p align="left">
