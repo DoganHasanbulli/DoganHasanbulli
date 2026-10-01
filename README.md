@@ -10,14 +10,16 @@ Currently working on a **2D Fantasy RPG with Godot & GDScript** while exploring 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="INSTAGRAM_LINK">
+  <a href="[INSTAGRAM_LINK](https://www.instagram.com/thehasanbulli?stkn=d2I3Y3BpeWgxbWJl&utm_source=qr)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="LINKEDIN_LINK">
+  <a href="[LINKEDIN_LINK](https://www.linkedin.com/in/dogan-hasanbulli-76a46538a/?isSelfProfile=true)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 ---
+
 ## 💻 Tech Stack
 
 <p align="left">
