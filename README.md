@@ -48,10 +48,6 @@ Currently working on a **2D Fantasy RPG with Godot & GDScript** while exploring 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoganHasanbulli&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoganHasanbulli&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DoganHasanbulli&theme=tokyonight&hide_border=true" height="165"/>
